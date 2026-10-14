@@ -65,6 +65,8 @@ nav_path: 埋め込み連携（プレイヤー共通） ＞ 埋め込み連携�
 
 設置方法は、スクリプトを呼び出す方式・HTMLの属性で指定する方式・専用タグを使う方式の3通りがあります。ご要望に応じて弊社で埋め込みコードを作成しお渡ししています。
 
+各埋め込みスクリプトのパラメータは[LIVE]({{ '/player/tig-live/embed-params.html' | relative_url }})・[Short]({{ '/player/tig-short/embed-params.html' | relative_url }})・[ページテンプレート]({{ '/player-common/page-template.html' | relative_url }})のページに、自社の識別情報を計測ログに残す方法は[ta_exid（外部 ID 連携）]({{ '/player-common/exid-tracking.html' | relative_url }})にまとめています。
+
 ## 用語
 
 専門用語は[用語集]({{ '/glossary.html' | relative_url }})を参照してください。
